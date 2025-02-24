@@ -1,0 +1,16 @@
+body {
+    font-family: Times New Roman, sans-serif;
+    text-align: center;
+    background-color: #F466F2;
+    margin: 50px;
+}
+button {
+    background-color: #AE87F5;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #F5ADF0;
+}
